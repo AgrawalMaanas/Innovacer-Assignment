@@ -15,7 +15,7 @@ To Subscribe to the Project:
 5. The subscribed email ID&#39;s will receive an email.
 
 **A Screenshot of Input:**
-[Input Demo](/1.jpg)
+![Input Demo](/1.jpg)
 
 **A Screenshot of the database:**
 
@@ -26,10 +26,10 @@ To Subscribe to the Project:
 **Table Structure: As shown below.**
 
 **Relation : Many to Many.**
-[DB Structure](/2.jpg)
+![DB Structure](/2.jpg)
 
 **A Screenshot of Output**
-[Output Demo](/3.jpg)
+![Output Demo](/3.jpg)
 
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
